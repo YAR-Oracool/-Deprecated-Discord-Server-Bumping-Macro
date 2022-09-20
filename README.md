@@ -1,4 +1,4 @@
-# Discord-Server-Bumping-Macro
+# Discord-Server-Bumping-Macro (Deprecated)
 
 I created this repo because the admind for a server I'm a part of jokingly asked me to creat a repo for Macro I made with Auto Hot Keys.
 
